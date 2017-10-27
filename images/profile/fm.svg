@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg4702"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="fm.svg">
+  <defs
+     id="defs4696" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="111.42857"
+     inkscape:cy="645.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1806"
+     inkscape:window-height="1198"
+     inkscape:window-x="417"
+     inkscape:window-y="235"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4699">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:8.79966068;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3835"
+       width="186.87732"
+       height="186.53191"
+       x="6.4351139"
+       y="103.98613" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.57859898px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07509792"
+       d="m 36.183348,149.31122 v 10.71376 h 41.304756 v 27.72981 H 40.212567 v 10.7138 h 37.275537 v 44.93496 h 0.336097 v 0.0295 H 90.17655 v -0.0295 h 0.0317 V 160.8926 l 24.23204,64.45085 h 12.79351 l 24.26356,-64.53487 v 82.62225 h 12.41537 v -94.09229 h -18.96985 l -24.13752,64.03063 -24.01144,-64.03063 h -6.585825 v -0.0258 z"
+       id="text4672"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
